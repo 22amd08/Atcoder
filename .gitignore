@@ -1,3 +1,4 @@
+
 .vscode/**
 !c_cpp_properties.json
 !launch.json
@@ -7,3 +8,5 @@ ac-library/**
 
 *.in
 *.out
+
+.gitmessage.txt
